@@ -1,0 +1,10 @@
+#simple calculator in Python
+a=60
+b=6
+
+
+print("The value of a",a,"+",6,"is:",a+b)
+print("The value of a", a,"-",6, "is:",a-b)
+print("The value of a",a,"*",6,"is:",a*b)
+print("The value of a", a,"/",6, "is:",a/b)
+print("The value of a",a,"%",6,"is:",a%b)
